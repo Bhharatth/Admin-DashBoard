@@ -14,7 +14,8 @@ import { useSelector } from "react-redux";
 
 function App() {
   const admin = useSelector((state)=> state.user.currentUser);
-  console.log(admin)
+  // const admin = true;
+  // console.log(admin)
 
   return (
     <Router>

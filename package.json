@@ -20,6 +20,7 @@
     "recharts": "^2.1.16",
     "redux-persist": "^6.0.0",
     "redux-thunk": "^2.4.2",
+    "timeago": "^1.6.7",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
