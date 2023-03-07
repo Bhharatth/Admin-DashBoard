@@ -2,7 +2,9 @@ import { Visibility } from "@material-ui/icons";
 import "./widgetSm.css";
 
 export default function WidgetSm() {
+  
   return (
+
     <div className="widgetSm">
     <span className="widgetSmTitle">New Join Members</span>
     <ul className="widgetSmList">
